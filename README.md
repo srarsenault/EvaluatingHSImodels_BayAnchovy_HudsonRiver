@@ -1,4 +1,4 @@
-# Evaluating effects of data quality and variable weighting on habitat suitability modelling
+# Evaluating effects of data quality and variable weighting on habitat suitability modelling: Manuscript Code
 
 Software for the reproduction of methods described in the article "Evaluating effects of data quality and variable weighting on habitat suitability modelling" published in Ecological Informatics.
 
